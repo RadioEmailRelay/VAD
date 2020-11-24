@@ -8,7 +8,7 @@ You are an amateur radio license holder, a server administrator with time on you
 
 
 # Station Requirements:
-An 2m, VHF amateur radio receiver which connects to the packet modem
+A 2m, VHF amateur radio receiver which connects to the packet modem
 Packet Modem with settings for psk8-100r &amp; 64bit encoding
 A linux based computer system
 
